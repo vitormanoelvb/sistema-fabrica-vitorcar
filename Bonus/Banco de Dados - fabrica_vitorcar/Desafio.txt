@@ -1,0 +1,8 @@
+Professor Vitor, de Vitor pra Vitor – de xará pra xará!
+Eu te proponho um desafio acadêmico e divertido:
+
+Conecte o sistema Fábrica VitorCar ao banco de dados MySQL usando as classes ConexaoBD e PessoaDAO.
+Se conseguir… te dou um Bis 🍫! Mas se desistir...
+vai ter que aceitar uma cebola crua no lugar 🧅 — e não vale chorar (só o IDE pode dar erro)!
+
+Vamos ver se o senhor prefere o sabor doce da conquista… ou as lágrimas picantes da derrota! 😄

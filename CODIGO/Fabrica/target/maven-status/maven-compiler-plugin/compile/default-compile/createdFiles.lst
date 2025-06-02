@@ -1,0 +1,5 @@
+com\mycompany\fabrica\ConexaoBD.class
+com\mycompany\fabrica\Fabrica.class
+com\mycompany\fabrica\Pessoa.class
+com\mycompany\fabrica\PessoaDAO.class
+com\mycompany\fabrica\Carro.class
