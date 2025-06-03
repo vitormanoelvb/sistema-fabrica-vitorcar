@@ -63,9 +63,9 @@ A **Fábrica VitorCar** é um sistema acadêmico para gestão de pessoas e veíc
 - **Motor Gráfico:** VM ENGINE DEVELOPMENT (para visual estilizado e fluidez)
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="VM Engine Logo.png" height="130" alt="VM Engine Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="90" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="90" alt="mysql logo" />
+  <img src="VM Engine Logo.png" height="90" alt="VM Engine Logo" />
 </div>
 
 ---
