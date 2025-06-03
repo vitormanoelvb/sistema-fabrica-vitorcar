@@ -9,7 +9,7 @@
 
 ## 📘 Descrição do Projeto
 
-O **Fábrica VitorCar** é um sistema acadêmico para gestão de pessoas e veículos com foco em controle de menores de idade, manutenção veicular e funcionalidades administrativas. Utiliza persistência de dados via banco de dados MySQL e menus interativos no console. Ideal para aprendizado de Java, JDBC e POO.
+A **Fábrica VitorCar** é um sistema acadêmico para gestão de pessoas e veículos com foco em controle de menores de idade, manutenção veicular e funcionalidades administrativas. Utiliza persistência de dados via banco de dados MySQL e menus interativos no console. Ideal para aprendizado de Java, JDBC e POO.
 
 ---
 
@@ -60,11 +60,12 @@ O **Fábrica VitorCar** é um sistema acadêmico para gestão de pessoas e veíc
 - **Paradigma:** Programação Orientada a Objetos (POO)
 - **Interface:** Console com menus formatados e interação de usuário
 - **Banco de Dados:** MySQL 8+ com JDBC
-- **Motor Gráfico:** VM ENGINE DEVELOPMENT v1.5 (para visual estilizado e fluidez)
+- **Motor Gráfico:** VM ENGINE DEVELOPMENT (para visual estilizado e fluidez)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="VM Engine Logo.png" height="130" alt="VM Engine Logo" />
 </div>
 
 ---
@@ -133,10 +134,21 @@ O **Fábrica VitorCar** é um sistema acadêmico para gestão de pessoas e veíc
 
 **🖥️ Motor gráfico de console: VM ENGINE DEVELOPMENT v1.5**
 
+<div align="left">
+  <img src="VM Engine V.png" height="130" alt="VM Engine V1.5" />
+</div>
+
 ---
 
 ## ⚠️ Observações Finais
 
 Este sistema é um projeto **didático** e não deve ser utilizado em ambientes de produção. Foi desenvolvido para fins acadêmicos, com foco em aprendizado de Java, POO, persistência com JDBC e interação via console.
+
+---
+
+###
+
+  <img src="VM ENGINE SYSTEMS.png" width="100%" alt="VM Engine Systems" />
+</div>
 
 ---
